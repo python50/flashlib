@@ -1,4 +1,4 @@
-#===Flashlib===
+===Flashlib===
 -----
 Intended for Upper and Mid-Range PIC 8 bit microcontrollers by Microchip
 
@@ -8,7 +8,7 @@ This library provides functions to read, write, and erase data from flash memory
 
 Note: this is intended for Microchips new XC8 compiler, its free and cross platform -you can find it on Microchip's website (microchip.com).
 
-##===Credits===
+===Credits===
 -----
 This library was created by Jason White as part of a much larger project. Due to the lack of example code found on the internet, he decided to release this code as a small library for use and study by all.
 
@@ -17,7 +17,7 @@ Release Date: 08/06/2012
 
 Copyright 2012 (C) Jason White <Jason@JSWhite.net> / White Waters Software
 
-##===Licence===
+===Licence===
 -----
 This code is released under the Modifed BSD Licence
 
