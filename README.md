@@ -4,7 +4,7 @@ Intended for Upper and Mid-Range PIC 8 bit microcontrollers by Microchip
 
 Flahlib is a simple interface to the flash memory controller used in the enhanced mid-range PIC microcontrollers. This library was created and tested for the PIC16F1518, but should work without a hitch on just about every modern PIC microcontroller.
 
-This library provides functions to read, write, and erase data from flash memory. If you find any errors, or find youself making improvements -feel free to send patches/feedback to creator of this library: Jason White.
+This library provides functions to read, write, and erase data from flash memory. If you find any errors, or find yourself making improvements -feel free to send patches/feedback to creator of this library: Jason White.
 
 Note: this is intended for Microchips new XC8 compiler, its free and cross platform -you can find it on Microchip's website (microchip.com).
 
