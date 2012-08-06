@@ -1,12 +1,14 @@
-=Flashlib=
+#===Flashlib===
 -----
-Intended for Upper and Mid-Range PIC 8 bit microcontrollers by Microchip (ie. PIC18F, PIC16F, and PIC12F)
+Intended for Upper and Mid-Range PIC 8 bit microcontrollers by Microchip
 
-A simple interface to the flash memory controller used in the enhanced mid-range PIC microcontrollers. While this library was made for the PIC16F1518, it can easily be configured to work with many other microcontrollers.
+Flahlib is a simple interface to the flash memory controller used in the enhanced mid-range PIC microcontrollers. This library was created and tested for the PIC16F1518, but should work without a hitch on just about every modern PIC microcontroller.
 
-This library provides functions to read, write, and erase data from flash memory. If you find any errors, or find youself making improvements when including this in your own project I encourage you to send your patches and feedback to me.
- 
-===Credits===
+This library provides functions to read, write, and erase data from flash memory. If you find any errors, or find youself making improvements -feel free to send patches/feedback to creator of this library: Jason White.
+
+Note: this is intended for Microchips new XC8 compiler, its free and cross platform -you can find it on Microchip's website (microchip.com).
+
+##===Credits===
 -----
 This library was created by Jason White as part of a much larger project. Due to the lack of example code found on the internet, he decided to release this code as a small library for use and study by all.
 
@@ -15,7 +17,7 @@ Release Date: 08/06/2012
 
 Copyright 2012 (C) Jason White <Jason@JSWhite.net> / White Waters Software
 
-===Licence===
+##===Licence===
 -----
 This code is released under the Modifed BSD Licence
 
